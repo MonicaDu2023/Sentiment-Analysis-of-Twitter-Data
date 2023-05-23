@@ -6,9 +6,9 @@
    #### sentiment.txt provide sentiment score of each twitter
    
 ## Project Overview
-   #### Built extract process for raw tweets in JSON type and performed data cleaning by eliminating the mentions, hashtags and URL in the tweets. 
-   #### Tokenized the text, performed normalization using lemmatization. 
-   #### Using TextBlob package estimated the polarity of tweets.
+   * Built extract process for raw tweets in JSON type and performed data cleaning by eliminating the mentions, hashtags and URL in the tweets. 
+   * Tokenized the text, performed normalization using lemmatization. 
+   * Using TextBlob package estimated the polarity of tweets.
    
    
 
